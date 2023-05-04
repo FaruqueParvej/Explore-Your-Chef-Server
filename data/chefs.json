@@ -6,7 +6,63 @@
       "years_of_experience": 10,
       "number_of_recipes": 100,
       "likes": 5000,
-      "bio": "John Smith is a renowned chef with over 10 years of experience in the culinary industry. He has worked in some of the top restaurants in the world and has been featured in various cooking shows. John is known for his innovative recipes and his ability to fuse different cuisines to create unique dishes. He is passionate about cooking and loves to share his knowledge with others."
+      "bio": "John Smith is a renowned chef with over 10 years of experience in the culinary industry. He has worked in some of the top restaurants in the world and has been featured in various cooking shows. John is known for his innovative recipes and his ability to fuse different cuisines to create unique dishes. He is passionate about cooking and loves to share his knowledge with others.",
+      "recipes": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "1 pound spaghetti",
+            "4 ounces pancetta or bacon",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "2 cloves garlic, minced"
+          ],
+          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "rating": 4.5
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "1 1/2 pounds beef sirloin, sliced thin",
+            "1/2 cup flour",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "4 tablespoons unsalted butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 pound mushrooms, sliced",
+            "2 cups beef broth",
+            "1 cup sour cream",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon Worcestershire sauce",
+            "12 ounces egg noodles"
+          ],
+          "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
+          "rating": 4.2
+        },
+        {
+          "name": "Chicken Fajitas",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts, sliced thin",
+            "2 bell peppers, sliced thin",
+            "1 onion"
+          , "sliced thin",
+    "2 tablespoons vegetable oil",
+    "2 teaspoons chili powder",
+    "1 teaspoon paprika",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "8-10 small flour tortillas",
+    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
+    ],
+    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
+    "rating": 4.8
+    }
+    ]
     },
     {
       "id": 2,
@@ -15,7 +71,63 @@
       "years_of_experience": 7,
       "number_of_recipes": 50,
       "likes": 2500,
-      "bio": "Maria Gonzalez is a talented chef who specializes in Latin American cuisine. She has worked in some of the best restaurants in the region and has won several awards for her dishes. Maria is known for her passion for using fresh, local ingredients and her ability to create dishes that are both delicious and healthy."
+      "bio": "Maria Gonzalez is a talented chef who specializes in Latin American cuisine. She has worked in some of the best restaurants in the region and has won several awards for her dishes. Maria is known for her passion for using fresh, local ingredients and her ability to create dishes that are both delicious and healthy.",
+      "recipes": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "1 pound spaghetti",
+            "4 ounces pancetta or bacon",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "2 cloves garlic, minced"
+          ],
+          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "rating": 4.5
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "1 1/2 pounds beef sirloin, sliced thin",
+            "1/2 cup flour",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "4 tablespoons unsalted butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 pound mushrooms, sliced",
+            "2 cups beef broth",
+            "1 cup sour cream",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon Worcestershire sauce",
+            "12 ounces egg noodles"
+          ],
+          "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
+          "rating": 4.2
+        },
+        {
+          "name": "Chicken Fajitas",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts, sliced thin",
+            "2 bell peppers, sliced thin",
+            "1 onion"
+          , "sliced thin",
+    "2 tablespoons vegetable oil",
+    "2 teaspoons chili powder",
+    "1 teaspoon paprika",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "8-10 small flour tortillas",
+    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
+    ],
+    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
+    "rating": 4.8
+    }
+    ]
     },
     {
       "id": 3,
@@ -24,7 +136,63 @@
       "years_of_experience": 15,
       "number_of_recipes": 200,
       "likes": 8000,
-      "bio": "David Lee is a master chef who has worked in some of the most prestigious restaurants in the world. He is known for his expertise in French cuisine and his ability to create dishes that are both sophisticated and delicious. David is also a mentor to many aspiring chefs and is passionate about sharing his knowledge with the next generation."
+      "bio": "David Lee is a master chef who has worked in some of the most prestigious restaurants in the world. He is known for his expertise in French cuisine and his ability to create dishes that are both sophisticated and delicious. David is also a mentor to many aspiring chefs and is passionate about sharing his knowledge with the next generation.",
+        "recipes": [
+          {
+            "name": "Spaghetti Carbonara",
+            "ingredients": [
+              "1 pound spaghetti",
+              "4 ounces pancetta or bacon",
+              "4 large eggs",
+              "1 cup grated Pecorino Romano cheese",
+              "1/2 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "2 cloves garlic, minced"
+            ],
+            "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+            "rating": 4.5
+          },
+          {
+            "name": "Beef Stroganoff",
+            "ingredients": [
+              "1 1/2 pounds beef sirloin, sliced thin",
+              "1/2 cup flour",
+              "1/4 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "4 tablespoons unsalted butter",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 pound mushrooms, sliced",
+              "2 cups beef broth",
+              "1 cup sour cream",
+              "1 tablespoon Dijon mustard",
+              "1 tablespoon Worcestershire sauce",
+              "12 ounces egg noodles"
+            ],
+            "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
+            "rating": 4.2
+          },
+          {
+            "name": "Chicken Fajitas",
+            "ingredients": [
+              "1 pound boneless, skinless chicken breasts, sliced thin",
+              "2 bell peppers, sliced thin",
+              "1 onion"
+            , "sliced thin",
+      "2 tablespoons vegetable oil",
+      "2 teaspoons chili powder",
+      "1 teaspoon paprika",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon cumin",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "8-10 small flour tortillas",
+      "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
+      ],
+      "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
+      "rating": 4.8
+      }
+      ]
     },
     {
       "id": 4,
@@ -33,7 +201,63 @@
       "years_of_experience": 5,
       "number_of_recipes": 30,
       "likes": 1000,
-      "bio": "Aisha Ahmed is a rising star in the culinary world. She specializes in Middle Eastern cuisine and has won several awards for her innovative dishes. Aisha is known for her use of traditional spices and herbs to create new and exciting flavors. She is passionate about promoting the rich culinary heritage of her region."
+      "bio": "Aisha Ahmed is a rising star in the culinary world. She specializes in Middle Eastern cuisine and has won several awards for her innovative dishes. Aisha is known for her use of traditional spices and herbs to create new and exciting flavors. She is passionate about promoting the rich culinary heritage of her region.",
+      "recipes": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "1 pound spaghetti",
+            "4 ounces pancetta or bacon",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "2 cloves garlic, minced"
+          ],
+          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "rating": 4.5
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "1 1/2 pounds beef sirloin, sliced thin",
+            "1/2 cup flour",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "4 tablespoons unsalted butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 pound mushrooms, sliced",
+            "2 cups beef broth",
+            "1 cup sour cream",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon Worcestershire sauce",
+            "12 ounces egg noodles"
+          ],
+          "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
+          "rating": 4.2
+        },
+        {
+          "name": "Chicken Fajitas",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts, sliced thin",
+            "2 bell peppers, sliced thin",
+            "1 onion"
+          , "sliced thin",
+    "2 tablespoons vegetable oil",
+    "2 teaspoons chili powder",
+    "1 teaspoon paprika",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "8-10 small flour tortillas",
+    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
+    ],
+    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
+    "rating": 4.8
+    }
+    ]
     },
     {
       "id": 5,
@@ -42,7 +266,63 @@
       "years_of_experience": 12,
       "number_of_recipes": 150,
       "likes": 6000,
-      "bio": "Michael Kim is a chef with a passion for fusion cuisine. He combines the best elements of different culinary traditions to create new and exciting dishes. Michael has worked in some of the most popular restaurants in the US and has won several awards for his unique creations. He is always experimenting with new flavors and techniques."
+      "bio": "Michael Kim is a chef with a passion for fusion cuisine. He combines the best elements of different culinary traditions to create new and exciting dishes. Michael has worked in some of the most popular restaurants in the US and has won several awards for his unique creations. He is always experimenting with new flavors and techniques.",
+      "recipes": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "1 pound spaghetti",
+            "4 ounces pancetta or bacon",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "2 cloves garlic, minced"
+          ],
+          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "rating": 4.5
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "1 1/2 pounds beef sirloin, sliced thin",
+            "1/2 cup flour",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "4 tablespoons unsalted butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 pound mushrooms, sliced",
+            "2 cups beef broth",
+            "1 cup sour cream",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon Worcestershire sauce",
+            "12 ounces egg noodles"
+          ],
+          "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
+          "rating": 4.2
+        },
+        {
+          "name": "Chicken Fajitas",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts, sliced thin",
+            "2 bell peppers, sliced thin",
+            "1 onion"
+          , "sliced thin",
+    "2 tablespoons vegetable oil",
+    "2 teaspoons chili powder",
+    "1 teaspoon paprika",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "8-10 small flour tortillas",
+    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
+    ],
+    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
+    "rating": 4.8
+    }
+    ]
     },
     {
       "id": 6,
@@ -51,7 +331,63 @@
       "years_of_experience": 8,
       "number_of_recipes": 70,
       "likes": 3000,
-      "bio": "Sophie Martin is a chef who specializes in vegan and vegetarian cuisine. She is passionate about creating delicious and healthy plant-based dishes that everyone can enjoy. Sophie has worked in several top restaurants and has also published a cookbook of her own recipes. She is known for her use of fresh, seasonal ingredients and her ability to make vegan food taste amazing. Sophie is also a strong advocate for sustainable and ethical food practices."
+      "bio": "Sophie Martin is a chef who specializes in vegan and vegetarian cuisine. She is passionate about creating delicious and healthy plant-based dishes that everyone can enjoy. Sophie has worked in several top restaurants and has also published a cookbook of her own recipes. She is known for her use of fresh, seasonal ingredients and her ability to make vegan food taste amazing. Sophie is also a strong advocate for sustainable and ethical food practices.",
+      "recipes": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "1 pound spaghetti",
+            "4 ounces pancetta or bacon",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "2 cloves garlic, minced"
+          ],
+          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "rating": 4.5
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "1 1/2 pounds beef sirloin, sliced thin",
+            "1/2 cup flour",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "4 tablespoons unsalted butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 pound mushrooms, sliced",
+            "2 cups beef broth",
+            "1 cup sour cream",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon Worcestershire sauce",
+            "12 ounces egg noodles"
+          ],
+          "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
+          "rating": 4.2
+        },
+        {
+          "name": "Chicken Fajitas",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts, sliced thin",
+            "2 bell peppers, sliced thin",
+            "1 onion"
+          , "sliced thin",
+    "2 tablespoons vegetable oil",
+    "2 teaspoons chili powder",
+    "1 teaspoon paprika",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "8-10 small flour tortillas",
+    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
+    ],
+    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
+    "rating": 4.8
+    }
+    ]
     }
     ]
   
