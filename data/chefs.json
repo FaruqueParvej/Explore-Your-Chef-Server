@@ -9,7 +9,18 @@
       "bio": "John Smith is a renowned chef with over 10 years of experience in the culinary industry. He has worked in some of the top restaurants in the world and has been featured in various cooking shows. John is known for his innovative recipes and his ability to fuse different cuisines to create unique dishes. He is passionate about cooking and loves to share his knowledge with others.",
       "recipes": [
         {
-          "name": "Spaghetti Carbonara",
+          "name": "PizzaBurger",
+          "ingredients": [
+            
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "2 cloves garlic, minced"
+          ],
+          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "rating": 4.5
+        },{
+          "name": "Spaghetti toasted sauce",
           "ingredients": [
             "1 pound spaghetti",
             "4 ounces pancetta or bacon",
@@ -23,50 +34,24 @@
           "rating": 4.5
         },
         {
-          "name": "Beef Stroganoff",
+          "name": "Hamburger",
           "ingredients": [
-            "1 1/2 pounds beef sirloin, sliced thin",
-            "1/2 cup flour",
-            "1/4 teaspoon salt",
-            "1/4 teaspoon black pepper",
-            "4 tablespoons unsalted butter",
-            "1 onion, chopped",
-            "2 cloves garlic, minced",
-            "1 pound mushrooms, sliced",
-            "2 cups beef broth",
-            "1 cup sour cream",
-            "1 tablespoon Dijon mustard",
-            "1 tablespoon Worcestershire sauce",
-            "12 ounces egg noodles"
+            "1 pound  ",
+            "4 ounces pancetta or bacon",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "2 cloves garlic, minced"
           ],
-          "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
-          "rating": 4.2
-        },
-        {
-          "name": "Chicken Fajitas",
-          "ingredients": [
-            "1 pound boneless, skinless chicken breasts, sliced thin",
-            "2 bell peppers, sliced thin",
-            "1 onion"
-          , "sliced thin",
-    "2 tablespoons vegetable oil",
-    "2 teaspoons chili powder",
-    "1 teaspoon paprika",
-    "1/2 teaspoon garlic powder",
-    "1/2 teaspoon cumin",
-    "1/2 teaspoon salt",
-    "1/4 teaspoon black pepper",
-    "8-10 small flour tortillas",
-    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
-    ],
-    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
-    "rating": 4.8
-    }
+          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "rating": 4.5
+        }
     ]
     },
     {
       "id": 2,
-      "chef_picture": "https://example.com/chef2_avatar.jpg",
+      "chef_picture": "https://pyxis.nymag.com/v1/imgs/c4f/ef4/3d1754482ad423578cc60f31329abb4487-13-daniel-rose.2x.h473.w710.jpg",
       "chef_name": "Maria Gonzalez",
       "years_of_experience": 7,
       "number_of_recipes": 50,
@@ -88,7 +73,7 @@
           "rating": 4.5
         },
         {
-          "name": "Beef Stroganoff",
+          "name": "Hot dog",
           "ingredients": [
             "1 1/2 pounds beef sirloin, sliced thin",
             "1/2 cup flour",
@@ -131,7 +116,7 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://example.com/chef3_avatar.jpg",
+      "chef_picture": "https://149446486.v2.pressablecdn.com/wp-content/uploads/2021/01/thomas-keller-750x422.jpg",
       "chef_name": "David Lee",
       "years_of_experience": 15,
       "number_of_recipes": 200,
@@ -139,9 +124,9 @@
       "bio": "David Lee is a master chef who has worked in some of the most prestigious restaurants in the world. He is known for his expertise in French cuisine and his ability to create dishes that are both sophisticated and delicious. David is also a mentor to many aspiring chefs and is passionate about sharing his knowledge with the next generation.",
         "recipes": [
           {
-            "name": "Spaghetti Carbonara",
+            "name": "Fried chicken",
             "ingredients": [
-              "1 pound spaghetti",
+              
               "4 ounces pancetta or bacon",
               "4 large eggs",
               "1 cup grated Pecorino Romano cheese",
@@ -153,7 +138,7 @@
             "rating": 4.5
           },
           {
-            "name": "Beef Stroganoff",
+            "name": "Barbecue ribs",
             "ingredients": [
               "1 1/2 pounds beef sirloin, sliced thin",
               "1/2 cup flour",
@@ -196,7 +181,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://example.com/chef4_avatar.jpg",
+      "chef_picture": "https://static.nationalgeographic.co.uk/files/styles/image_3200/public/pioneer_sean-sherman_isa8573_hr.jpg?w=1600&h=900",
       "chef_name": "Aisha Ahmed",
       "years_of_experience": 5,
       "number_of_recipes": 30,
@@ -204,7 +189,7 @@
       "bio": "Aisha Ahmed is a rising star in the culinary world. She specializes in Middle Eastern cuisine and has won several awards for her innovative dishes. Aisha is known for her use of traditional spices and herbs to create new and exciting flavors. She is passionate about promoting the rich culinary heritage of her region.",
       "recipes": [
         {
-          "name": "Spaghetti Carbonara",
+          "name": "Chicken pie",
           "ingredients": [
             "1 pound spaghetti",
             "4 ounces pancetta or bacon",
@@ -218,12 +203,9 @@
           "rating": 4.5
         },
         {
-          "name": "Beef Stroganoff",
+          "name": "Beef burger",
           "ingredients": [
-            "1 1/2 pounds beef sirloin, sliced thin",
-            "1/2 cup flour",
-            "1/4 teaspoon salt",
-            "1/4 teaspoon black pepper",
+           
             "4 tablespoons unsalted butter",
             "1 onion, chopped",
             "2 cloves garlic, minced",
@@ -238,15 +220,13 @@
           "rating": 4.2
         },
         {
-          "name": "Chicken Fajitas",
+          "name": "Chicken dopa",
           "ingredients": [
             "1 pound boneless, skinless chicken breasts, sliced thin",
             "2 bell peppers, sliced thin",
             "1 onion"
           , "sliced thin",
-    "2 tablespoons vegetable oil",
-    "2 teaspoons chili powder",
-    "1 teaspoon paprika",
+   
     "1/2 teaspoon garlic powder",
     "1/2 teaspoon cumin",
     "1/2 teaspoon salt",
@@ -261,7 +241,7 @@
     },
     {
       "id": 5,
-      "chef_picture": "https://example.com/chef5_avatar.jpg",
+      "chef_picture": "https://t3.ftcdn.net/jpg/01/97/47/96/360_F_197479638_tfBxMzoRL47fRGVNHMczLgkdhQePJFC2.jpg",
       "chef_name": "Michael Kim",
       "years_of_experience": 12,
       "number_of_recipes": 150,
@@ -269,17 +249,25 @@
       "bio": "Michael Kim is a chef with a passion for fusion cuisine. He combines the best elements of different culinary traditions to create new and exciting dishes. Michael has worked in some of the most popular restaurants in the US and has won several awards for his unique creations. He is always experimenting with new flavors and techniques.",
       "recipes": [
         {
-          "name": "Spaghetti Carbonara",
+          "name": "Beef Chili",
           "ingredients": [
-            "1 pound spaghetti",
-            "4 ounces pancetta or bacon",
-            "4 large eggs",
-            "1 cup grated Pecorino Romano cheese",
-            "1/2 teaspoon salt",
+            "2 pounds ground beef",
+            "2 onions, chopped",
+            "1 green bell pepper, chopped",
+            "1 red bell pepper, chopped",
+            "4 cloves garlic, minced",
+            "2 cans kidney beans, drained and rinsed",
+            "1 can diced tomatoes",
+            "1 can tomato sauce",
+            "2 tablespoons chili powder",
+            "1 tablespoon cumin",
+            "1 teaspoon paprika",
+            "1 teaspoon salt",
             "1/2 teaspoon black pepper",
-            "2 cloves garlic, minced"
+            "1/4 teaspoon cayenne pepper",
+            "Optional toppings: shredded cheese, sour cream, chopped cilantro"
           ],
-          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+          "method": "1. In a large pot, cook the ground beef over medium heat until browned, breaking it up into small pieces with a wooden spoon.\n2. Add the onions, bell peppers, and garlic to the pot and cook until the vegetables are softened, about 5 minutes.\n3. Add the kidney beans, diced tomatoes, tomato sauce, chili powder, cumin, paprika, salt, black pepper, and cayenne pepper to the pot.\n4. Stir everything together and bring the chili to a simmer.\n5. Cover the pot and let the chili simmer for 30-45 minutes, stirring occasionally.\n6. Serve the beef chili with your favorite toppings.",
           "rating": 4.5
         },
         {
@@ -303,30 +291,26 @@
           "rating": 4.2
         },
         {
-          "name": "Chicken Fajitas",
+          "name": "Beef Onion",
           "ingredients": [
-            "1 pound boneless, skinless chicken breasts, sliced thin",
-            "2 bell peppers, sliced thin",
-            "1 onion"
-          , "sliced thin",
-    "2 tablespoons vegetable oil",
-    "2 teaspoons chili powder",
-    "1 teaspoon paprika",
-    "1/2 teaspoon garlic powder",
-    "1/2 teaspoon cumin",
-    "1/2 teaspoon salt",
-    "1/4 teaspoon black pepper",
-    "8-10 small flour tortillas",
-    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
-    ],
-    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
-    "rating": 4.8
-    }
+            
+            "1 can tomato sauce",
+            "2 tablespoons chili powder",
+            "1 tablespoon cumin",
+            "1 teaspoon paprika",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "Optional toppings: shredded cheese, sour cream, chopped cilantro"
+          ],
+          "method": "1. In a large pot, cook the ground beef over medium heat until browned, breaking it up into small pieces with a wooden spoon.\n2. Add the onions, bell peppers, and garlic to the pot and cook until the vegetables are softened, about 5 minutes.\n3. Add the kidney beans, diced tomatoes, tomato sauce, chili powder, cumin, paprika, salt, black pepper, and cayenne pepper to the pot.\n4. Stir everything together and bring the chili to a simmer.\n5. Cover the pot and let the chili simmer for 30-45 minutes, stirring occasionally.\n6. Serve the beef chili with your favorite toppings.",
+          "rating": 4.5
+        }
     ]
     },
     {
       "id": 6,
-      "chef_picture": "https://example.com/chef6_avatar.jpg",
+      "chef_picture": "https://media.istockphoto.com/id/1136638047/photo/i-love-my-work-cheerful-young-chef-in-apron-keeping-tattooed-arms-crossed-and-smiling-while.jpg?s=612x612&w=0&k=20&c=XDfN4eo_AWH_LM7KLNL8jHCQY9wjkVwRBFMNo-z_4C8=",
       "chef_name": "Sophie Martin",
       "years_of_experience": 8,
       "number_of_recipes": 70,
@@ -334,59 +318,57 @@
       "bio": "Sophie Martin is a chef who specializes in vegan and vegetarian cuisine. She is passionate about creating delicious and healthy plant-based dishes that everyone can enjoy. Sophie has worked in several top restaurants and has also published a cookbook of her own recipes. She is known for her use of fresh, seasonal ingredients and her ability to make vegan food taste amazing. Sophie is also a strong advocate for sustainable and ethical food practices.",
       "recipes": [
         {
-          "name": "Spaghetti Carbonara",
+          "name": "BBQ Pulled Beef Sandwiches",
           "ingredients": [
-            "1 pound spaghetti",
-            "4 ounces pancetta or bacon",
-            "4 large eggs",
-            "1 cup grated Pecorino Romano cheese",
-            "1/2 teaspoon salt",
-            "1/2 teaspoon black pepper",
-            "2 cloves garlic, minced"
-          ],
-          "method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.\n2. While the spaghetti is cooking, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and drain on paper towels.\n3. In a bowl, whisk together the eggs, Pecorino Romano cheese, salt, and black pepper.\n4. Add the garlic to the skillet with the pancetta and cook for 30 seconds, stirring constantly.\n5. Add the drained spaghetti to the skillet and toss to combine with the pancetta and garlic.\n6. Remove the skillet from the heat and add the egg mixture, tossing quickly to combine with the spaghetti. If the sauce seems too thick, add some of the reserved pasta cooking water.\n7. Serve immediately, topped with additional Pecorino Romano cheese and black pepper, if desired.",
-          "rating": 4.5
-        },
-        {
-          "name": "Beef Stroganoff",
-          "ingredients": [
-            "1 1/2 pounds beef sirloin, sliced thin",
-            "1/2 cup flour",
-            "1/4 teaspoon salt",
-            "1/4 teaspoon black pepper",
-            "4 tablespoons unsalted butter",
-            "1 onion, chopped",
-            "2 cloves garlic, minced",
-            "1 pound mushrooms, sliced",
-            "2 cups beef broth",
-            "1 cup sour cream",
-            "1 tablespoon Dijon mustard",
+            "2 pounds beef chuck roast",
+            "1 cup BBQ sauce",
+            "1/4 cup brown sugar",
+            "1/4 cup apple cider vinegar",
             "1 tablespoon Worcestershire sauce",
-            "12 ounces egg noodles"
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "1/2 teaspoon smoked paprika",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "8 hamburger buns"
           ],
-          "method": "1. In a shallow dish, combine the flour, salt, and black pepper. Dredge the beef slices in the flour mixture, shaking off any excess.\n2. In a large skillet, melt 2 tablespoons of the butter over medium-high heat. Add the beef slices and cook until browned, about 3-4 minutes per side. Remove the beef from the skillet and set aside.\n3. In the same skillet, melt the remaining 2 tablespoons of butter over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-7 minutes.\n5. In a bowl, whisk together the beef broth, sour cream, Dijon mustard, and Worcestershire sauce.\n6. Add the beef and any juices back to the skillet with the vegetables. Pour in the beef broth mixture and stir to combine.\n7. Bring the mixture to a simmer and cook until the sauce has thickened, about 10-15 minutes.\n8. Meanwhile, cook the egg noodles according to the package instructions.\n9. Serve the beef stroganoff over the egg noodles.",
-          "rating": 4.2
+          "method": "1. In a small bowl, whisk together the BBQ sauce, brown sugar, apple cider vinegar, Worcestershire sauce, garlic powder, onion powder, smoked paprika, salt, and black pepper.\n2. Place the beef chuck roast in a slow cooker and pour the sauce over the top.\n3. Cover the slow cooker and cook on low for 8 hours, or until the beef is tender and easily shreds with a fork.\n4. Once the beef is cooked, remove it from the slow cooker and shred it using two forks.\n5. Return the shredded beef to the slow cooker and stir to coat it with the sauce.\n6. Serve the BBQ pulled beef on hamburger buns, topped with coleslaw or your favorite toppings.",
+          "rating": 4.7
         },
         {
-          "name": "Chicken Fajitas",
+          "name": "BBQ Pulled horse Sandwiches",
           "ingredients": [
-            "1 pound boneless, skinless chicken breasts, sliced thin",
-            "2 bell peppers, sliced thin",
-            "1 onion"
-          , "sliced thin",
-    "2 tablespoons vegetable oil",
-    "2 teaspoons chili powder",
-    "1 teaspoon paprika",
-    "1/2 teaspoon garlic powder",
-    "1/2 teaspoon cumin",
-    "1/2 teaspoon salt",
-    "1/4 teaspoon black pepper",
-    "8-10 small flour tortillas",
-    "Optional toppings: shredded cheese, sour cream, salsa, guacamole"
-    ],
-    "method": "1. In a small bowl, combine the chili powder, paprika, garlic powder, cumin, salt, and black pepper.\n2. In a large skillet, heat the vegetable oil over medium-high heat. Add the chicken slices and cook until browned on both sides, about 5-7 minutes. Remove the chicken from the skillet and set aside.\n3. Add the sliced peppers and onions to the skillet and cook until softened, about 5-7 minutes.\n4. Add the chicken back to the skillet with the vegetables and sprinkle the spice mixture over everything. Stir to combine and cook for an additional 2-3 minutes.\n5. Serve the chicken fajitas on the flour tortillas with any desired toppings.",
-    "rating": 4.8
-    }
+           
+            "1/4 cup apple cider vinegar",
+            "1 tablespoon Worcestershire sauce",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "1/2 teaspoon smoked paprika",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "8 hamburger buns"
+          ],
+          "method": "1. In a small bowl, whisk together the BBQ sauce, brown sugar, apple cider vinegar, Worcestershire sauce, garlic powder, onion powder, smoked paprika, salt, and black pepper.\n2. Place the beef chuck roast in a slow cooker and pour the sauce over the top.\n3. Cover the slow cooker and cook on low for 8 hours, or until the beef is tender and easily shreds with a fork.\n4. Once the beef is cooked, remove it from the slow cooker and shred it using two forks.\n5. Return the shredded beef to the slow cooker and stir to coat it with the sauce.\n6. Serve the BBQ pulled beef on hamburger buns, topped with coleslaw or your favorite toppings.",
+          "rating": 4.7
+        },
+        {
+          "name": "Beef Sandwiches",
+          "ingredients": [
+            "2 pounds beef chuck roast",
+            "1 cup BBQ sauce",
+            "1/4 cup brown sugar",
+            "1/4 cup apple cider vinegar",
+            "1 tablespoon Worcestershire sauce",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "1/2 teaspoon smoked paprika",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "8 hamburger buns"
+          ],
+          "method": "1. In a small bowl, whisk together the BBQ sauce, brown sugar, apple cider vinegar, Worcestershire sauce, garlic powder, onion powder, smoked paprika, salt, and black pepper.\n2. Place the beef chuck roast in a slow cooker and pour the sauce over the top.\n3. Cover the slow cooker and cook on low for 8 hours, or until the beef is tender and easily shreds with a fork.\n4. Once the beef is cooked, remove it from the slow cooker and shred it using two forks.\n5. Return the shredded beef to the slow cooker and stir to coat it with the sauce.\n6. Serve the BBQ pulled beef on hamburger buns, topped with coleslaw or your favorite toppings.",
+          "rating": 4.7
+        }
     ]
     }
     ]
